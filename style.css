@@ -15,7 +15,7 @@
   
   /* Header */
   header {
-    background-color: #888d92;
+    background-color: darkblue;
     color: white;
     padding: 40px 20px;
     text-align: center;
@@ -84,7 +84,7 @@
   .card h3 {
     margin-bottom: 10px;
     font-size: 1.2rem;
-    color: #007bff;
+    color: darkblue;
   }
   
   /* Contact Section */
@@ -111,7 +111,7 @@
   }
   
   .contact i:hover {
-    color: #007bff;
+    color: darkblue
     transform: scale(1.2);
   }
   
@@ -119,7 +119,7 @@
   footer {
     text-align: center;
     padding: 20px;
-    background-color: #007bff;
+    background-color: darkblue
     color: white;
     font-size: 0.9rem;
   }
